@@ -22,3 +22,5 @@
   - 2008 [Random projection trees and low dimensional manifolds](http://cseweb.ucsd.edu/~dasgupta/papers/rptree-stoc.pdf) By [Sanjoy Dasgupta](https://dblp.org/pers/hd/d/Dasgupta:Sanjoy) and [Yoav Freund](https://cseweb.ucsd.edu/~yfreund/)
   - 2010 [Bi-level Locality Sensitive Hashing for K-Nearest Neighbor](https://ieeexplore.ieee.org/document/6228099/) By [Jia Pan](http://rll.berkeley.edu/~jia/) and [Dinesh Monocha](http://www.cs.unc.edu/~dm/)
 
+- 2018-OPRCP: approximate nearest neighbor binary search algorithm for hybrid data over WMSN blockchain (Result: 2018-OPRCP-PLOT)
+  - 2018 [OPRCP: approximate nearest neighbor binary search algorithm for hybrid data over WMSN blockchain](https://link.springer.com/article/10.1186/s13638-018-1221-3) By Huakun Liu, Xin Wei, Ruliang Xiao
