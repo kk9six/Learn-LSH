@@ -3,7 +3,10 @@
 
 
 - **TODO**
-  - [**A neural algorithm for a fundamental computing problem**](http://science.sciencemag.org/content/358/6364/793) By [Sanjoy Dasgupta](https://dblp.org/pers/hd/d/Dasgupta:Sanjoy), [Charles F. Stevens](https://www.salk.edu/scientist/charles-f-stevens/), and [Saket Navlakha](https://www.salk.edu/scientist/saket-navlakha/)
+  - **2018-A neural algorithm for a fundamental computing problem**
+    - 2018 [A neural algorithm for a fundamental computing problem](http://science.sciencemag.org/content/358/6364/793) By [Sanjoy Dasgupta](https://dblp.org/pers/hd/d/Dasgupta:Sanjoy), [Charles F. Stevens](https://www.salk.edu/scientist/charles-f-stevens/), and [Saket Navlakha](https://www.salk.edu/scientist/saket-navlakha/)
+  - **2018-Approximate Nearest Neighbor Search in High Dimension**
+    - 2018 [Approximate Nearest Neighbor Search in High Dimension](https://arxiv.org/abs/1806.09823) By [Alexandr Andoni](http://www.mit.edu/~andoni/), [Piotr Indyk](https://people.csail.mit.edu/indyk/), and [Ilya Razenshteyn](https://www.ilyaraz.org/)
 
 - **1998-Similarity Search in High Dimensions via Hashing**
   - 1998 [Similarity Search in High Dimensions via Hashing](https://www.cs.princeton.edu/courses/archive/spring13/cos598C/Gionis.pdf) By [Aristides Gionis](https://users.ics.aalto.fi/gionis/index.shtml), [Piotr Indyk](https://people.csail.mit.edu/indyk/), [Rajeev Motwaniz](https://en.wikipedia.org/wiki/Rajeev_Motwani#cite_note-Kanpur-19)
@@ -25,6 +28,5 @@
   - 2014 [Densifying One Permutation Hashing via Rotation for Fast Near Neighbor Search](https://pdfs.semanticscholar.org/6d55/2d38404a5e01d142322c456c50ffaf3d3a1f.pdf) By [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/), and [ Ping Li](http://www.stat.rutgers.edu/home/pingli/)
   - 2015 [Practical and Optimal LSH for Angular Distance](https://arxiv.org/abs/1509.02897) By [Alexandr Andoni](http://www.mit.edu/~andoni/), [Piotr Indyk](https://people.csail.mit.edu/indyk/), [Thijs Laarhoven](http://www.thijs.com/), and [Ilya Razenshteyn](https://www.ilyaraz.org/)
   - 2018 [OPRCP: approximate nearest neighbor binary search algorithm for hybrid data over WMSN blockchain](https://link.springer.com/article/10.1186/s13638-018-1221-3) By Huakun Liu, Xin Wei, [Ruliang Xiao](https://dblp.org/pers/hd/x/Xiao:Ruliang)
-- **2018-Approximate Nearest Neighbor Search in High Dimension (uncomplete)**
-  - 2018 [Approximate Nearest Neighbor Search in High Dimension](https://arxiv.org/abs/1806.09823) By [Alexandr Andoni](http://www.mit.edu/~andoni/), [Piotr Indyk](https://people.csail.mit.edu/indyk/), and [Ilya Razenshteyn](https://www.ilyaraz.org/)
+
 
