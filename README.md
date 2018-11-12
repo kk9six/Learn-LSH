@@ -30,4 +30,4 @@
 - **2018-A neural algorithm for a fundamental computing problem**
   - 2018 [A neural algorithm for a fundamental computing problem](http://science.sciencemag.org/content/358/6364/793) By [Sanjoy Dasgupta](https://dblp.org/pers/hd/d/Dasgupta:Sanjoy), [Charles F. Stevens](https://www.salk.edu/scientist/charles-f-stevens/), and [Saket Navlakha](https://www.salk.edu/scientist/saket-navlakha/)
 - **2018-Randomized Sampling-Based Fly Local Sensitive Hashing**
-  - [Randomized Sampling-Based Fly Local Sensitive Hashing](https://www.researchgate.net/publication/327994945_Randomized_Sampling-Based_Fly_Local_Sensitive_Hashing) By [Kuan Xu](https://dblp.uni-trier.de/pers/hd/x/Xu:Kuan) and [Yu Qiao](http://automation.sjtu.edu.cn/en/ShowPeople.aspx?info_id=391&info_lb=326&flag=224)
+  - 2018 [Randomized Sampling-Based Fly Local Sensitive Hashing](https://www.researchgate.net/publication/327994945_Randomized_Sampling-Based_Fly_Local_Sensitive_Hashing) By [Kuan Xu](https://dblp.uni-trier.de/pers/hd/x/Xu:Kuan) and [Yu Qiao](http://automation.sjtu.edu.cn/en/ShowPeople.aspx?info_id=391&info_lb=326&flag=224)
