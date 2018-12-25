@@ -7,8 +7,6 @@
     - 2012 [Similarity Join Size Estimation using Locality Sensitive Hashing](https://arxiv.org/abs/1104.3212) by [Hongrae Lee](https://ai.google/research/people/HongraeLee), [Raymond T.Ng](https://www.cs.ubc.ca/~rng/), and [Kyuseok Shim](http://kdd.snu.ac.kr/~shim/)
   - **2018-Approximate Nearest Neighbor Search in High Dimension**
     - 2018 [Approximate Nearest Neighbor Search in High Dimension](https://arxiv.org/abs/1806.09823) By [Alexandr Andoni](http://www.mit.edu/~andoni/), [Piotr Indyk](https://people.csail.mit.edu/indyk/), and [Ilya Razenshteyn](https://www.ilyaraz.org/)
-  - **2018-Local Density Estimation in High Dimensions**
-    - 2018 [Local Density Estimation in High Dimensions](http://proceedings.mlr.press/v80/wu18a/wu18a.pdf) By Xian Wu, [Moses Charikar](https://profiles.stanford.edu/moses-charikar), and [Vishnu Natchu](https://dblp.org/pers/hd/n/Natchu:Vishnu)
 - **1998-Similarity Search in High Dimensions via Hashing**
   - 1998 [Similarity Search in High Dimensions via Hashing](https://www.cs.princeton.edu/courses/archive/spring13/cos598C/Gionis.pdf) By [Aristides Gionis](https://users.ics.aalto.fi/gionis/index.shtml), [Piotr Indyk](https://people.csail.mit.edu/indyk/), [Rajeev Motwaniz](https://en.wikipedia.org/wiki/Rajeev_Motwani#cite_note-Kanpur-19)
 - **2004-Locality-Sensitive Hashing Scheme Based on p-Stable Distributions**
@@ -33,3 +31,6 @@
   - 2018 [A neural algorithm for a fundamental computing problem](http://science.sciencemag.org/content/358/6364/793) By [Sanjoy Dasgupta](https://dblp.org/pers/hd/d/Dasgupta:Sanjoy), [Charles F. Stevens](https://www.salk.edu/scientist/charles-f-stevens/), and [Saket Navlakha](https://www.salk.edu/scientist/saket-navlakha/)
 - **2018-Randomized Sampling-Based Fly Local Sensitive Hashing**
   - 2018 [Randomized Sampling-Based Fly Local Sensitive Hashing](https://www.researchgate.net/publication/327994945_Randomized_Sampling-Based_Fly_Local_Sensitive_Hashing) By [Kuan Xu](https://dblp.uni-trier.de/pers/hd/x/Xu:Kuan) and [Yu Qiao](http://automation.sjtu.edu.cn/en/ShowPeople.aspx?info_id=391&info_lb=326&flag=224)
+- **2018-Local Density Estimation in High Dimensions**
+  - 2018 [Local Density Estimation in High Dimensions](http://proceedings.mlr.press/v80/wu18a/wu18a.pdf) By Xian Wu, [Moses Charikar](https://profiles.stanford.edu/moses-charikar), and [Vishnu Natchu](https://dblp.org/pers/hd/n/Natchu:Vishnu)
+
